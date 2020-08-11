@@ -1,0 +1,27 @@
+.woocommerce-MyAccount-content {
+	width: 100%;
+}
+
+.woocommerce-MyAccount-navigation {
+	width: 0;
+	height: 0;
+	overflow-y: hidden;
+	visibility: hidden;
+}
+
+#yith-wcwl-form small {
+	display: block;
+}
+
+#yith_wcwl_share_url {
+	width: 100%;
+}
+
+#yith-wcwl-form .yith-wcwl-share {
+	width: 100%;
+}
+
+#yith-wcwl-form .copy-trigger {
+	color: #a0090e;
+	font-weight: 700;
+}
